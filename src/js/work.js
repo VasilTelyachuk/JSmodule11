@@ -27,6 +27,7 @@ const randomIntegerFromInterval = (min, max) => {
 
 // function handleBtnStop () {
 //   clearInterval(timerId);
+// isActive = false;
 // }
 
 
