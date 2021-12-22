@@ -36,8 +36,6 @@ const refs = {
   btnStop: document.querySelector('button[data-action="stop"]'),
 }
 
-
-
 const colorChoice = {
   isActive: false,
   start() {
